@@ -11,3 +11,4 @@ motifs_in_sequence.fa
 pwm.csv
 pwm_report.ods
 test_gibbs.py
+.gitignore
